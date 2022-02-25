@@ -402,5 +402,5 @@ INSERT INTO fait_de(id_meuble, id_matiere) VALUES
     (13, 2);
 
 INSERT INTO ETAT(libelle_etat) VALUES
-    ('En cour de traitement'),
+    ('En cours de traitement'),
     ('Expédié');
